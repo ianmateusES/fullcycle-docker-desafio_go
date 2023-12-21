@@ -28,5 +28,5 @@ Divirta-se!
 ## Usando
 Para usar a imagem pública já buildada, execute o comando abaixo:
 ```bash
-docker run --rm ianmateusES/fullcycle-docker-go:latest
+docker run --rm ianmateuses/fullcycle-docker-go:latest
 ```
